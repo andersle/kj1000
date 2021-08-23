@@ -4,8 +4,8 @@
 Her finner du eksempler på kildekode rettet mot KJ1000:
 
 * Kort [introduksjon](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fintroduksjon%2FIntroduksjon.ipynb) til jupyter notebook.
-* Interaktiv jupyter notebook (kode og forklaringer) for å gjøre enkel [lineær regresjon](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fregresjon%2Fregresjon.ipynb)
-* Interaktiv jupyter notebook (bare kode) for å gjøre enkel [lineær regresjon](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fregresjon%2Fregresjon_kode.ipynb)
+* Interaktiv jupyter notebook (kode og forklaringer) for å gjøre enkel [lineær regresjon](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fregresjon%2Fregresjon.ipynb).
+* Interaktiv jupyter notebook (bare kode) for å gjøre enkel [lineær regresjon](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fregresjon%2Fregresjon_kode.ipynb).
 
 ## Lenke til nyester versjon (main):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter)
