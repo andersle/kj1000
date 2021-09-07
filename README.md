@@ -11,7 +11,7 @@ illustrasjoner på hvordan vi kan bruke Python i kjemi.
 * Visualisering av atomorbitaler:
   - Interaktiv jupyter notebook (kode og forklaringer) for å tegne [atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler_forklaring.ipynb).
   - Interaktiv jupyter notebook (bare kode) for å tegne [atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler.ipynb).
-  - Interaktiv jupyter notebook (bare kode) for å [sp³-atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fhybridorbitaler.ipynb).
+  - Interaktiv jupyter notebook (bare kode) for å tegne [sp³-atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fhybridorbitaler.ipynb).
 
 ## Lenke til nyeste versjon (main):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter)
