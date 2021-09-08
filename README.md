@@ -6,15 +6,25 @@ illustrasjoner på hvordan vi kan bruke Python i KJ1000. Eksemplene er i form av
 i nettleseren.
 
 * Kort [introduksjon](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fintroduksjon%2FIntroduksjon.ipynb) til Jupyter notebook.
-* Lineær regresjon (for labarbeid):
-  - Interaktiv Jupyter notebook (kode og forklaringer) for å gjøre enkel [lineær regresjon](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fregresjon%2Fregresjon.ipynb).
-  - Interaktiv Jupyter notebook (bare kode) for å gjøre enkel [lineær regresjon](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fregresjon%2Fregresjon_kode.ipynb).
-* Visualisering av atomorbitaler (kap. 7, 8 og 10):
-  - Interaktiv Jupyter notebook (kode og forklaringer) for å tegne [atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler_forklaring.ipynb).
-  - Interaktiv Jupyter notebook (bare kode) for å tegne [atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler.ipynb).
-  - Interaktiv Jupyter notebook (bare kode) for å tegne [sp³-atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fhybridorbital.ipynb).
 
-## Lenke til nyeste versjon (main):
+## Eksempler som kan være nyttig for lab:
+* Hvordan gjøre lineær regresjon:
+  - [Lineær regresjon (kode og forklaringer)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fregresjon%2Fregresjon.ipynb).
+  - [Lineær regresjon (bare kode)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fregresjon%2Fregresjon_kode.ipynb).
+
+## Visualisering av atomorbitaler (kap. 7, 8 og 10):
+* [Visualisering av atomorbitaler for hydrogenliknende atomer (kode og forklaringer)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler_forklaring.ipynb).
+* [Visualisering av atomorbitaler for hydrogenliknende atomer (bare kode)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler.ipynb).
+* [Visualisering av sp³-atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fhybridorbital.ipynb).
+
+## Syre-baselikevekt (kap. 16):
+* [Eksempel 16.8 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fsyrebase%2Fsyrebase.ipynb).
+  Her bestemmer vi pH ved dissosiasjon av den svake syren HNO<sub>2</sub> i vann.
+* [Eksempel 16.10 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fsyrebase%2Fdiprotisk.ipynb).
+  Her bestemmer vi konsentrasjoner for alle forbindelser ved dissosiasjon av den diprotiske syren H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>.
+
+
+## Lenke til nyeste versjon (alle eksempler):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter)
 
 ## Lisens
