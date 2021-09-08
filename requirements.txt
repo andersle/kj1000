@@ -6,4 +6,6 @@ sklearn
 statsmodels
 matplotlib
 jupyter
+pyvista
+ipygany
 sympy
