@@ -13,6 +13,12 @@ i nettleseren.
   - Interaktiv Jupyter notebook (kode og forklaringer) for å tegne [atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler_forklaring.ipynb).
   - Interaktiv Jupyter notebook (bare kode) for å tegne [atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler.ipynb).
   - Interaktiv Jupyter notebook (bare kode) for å tegne [sp³-atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fhybridorbital.ipynb).
+* Syre-baselikevekt (kap. 16):
+  - Interaktiv Jupyter notebook for [eksempel 16.8 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fsyrebase%2Fsyrebase.ipynb).
+    Her bestemmer vi pH ved dissosiasjon av den svake syren HNO$_2$ i vann.
+  - Interaktiv Jupyter notebook for [eksempel 16.10 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fsyrebase%2Fdiprotisk.ipynb).
+    Her bestemmer vi konsentrasjoner for alle forbindelser ved dissosiasjon av den diprotiske syren H$_2$C$_2$O$_4$.
+
 
 ## Lenke til nyeste versjon (main):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter)
