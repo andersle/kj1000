@@ -17,7 +17,7 @@ i nettleseren.
   - Interaktiv Jupyter notebook for [eksempel 16.8 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fsyrebase%2Fsyrebase.ipynb).
     Her bestemmer vi pH ved dissosiasjon av den svake syren HNO<sub>2</sub> i vann.
   - Interaktiv Jupyter notebook for [eksempel 16.10 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fsyrebase%2Fdiprotisk.ipynb).
-    Her bestemmer vi konsentrasjoner for alle forbindelser ved dissosiasjon av den diprotiske syren H<sub>2</sub>$C<sub>2</sub>$O<sub>4</sub>.
+    Her bestemmer vi konsentrasjoner for alle forbindelser ved dissosiasjon av den diprotiske syren H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>.
 
 
 ## Lenke til nyeste versjon (main):
