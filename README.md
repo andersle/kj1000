@@ -12,7 +12,7 @@ i nettleseren.
 * Visualisering av atomorbitaler (kap. 7, 8 og 10):
   - Interaktiv Jupyter notebook (kode og forklaringer) for å tegne [atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler_forklaring.ipynb).
   - Interaktiv Jupyter notebook (bare kode) for å tegne [atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler.ipynb).
-  - Interaktiv Jupyter notebook (bare kode) for å tegne [sp³-atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fhybridorbitaler.ipynb).
+  - Interaktiv Jupyter notebook (bare kode) for å tegne [sp³-atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fhybridorbital.ipynb).
 
 ## Lenke til nyeste versjon (main):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter)
