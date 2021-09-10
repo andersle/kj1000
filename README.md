@@ -25,7 +25,7 @@ i nettleseren.
   Her bestemmer vi likevektskonsentrasjoner i en likevekt der H<sub>2</sub> og I<sub>2</sub> reagerer til HI. Her har vi
   gitt startkonsentrasjoner av H<sub>2</sub>, I<sub>2</sub> og HI.
 * [Oppgave 33(c) fra eksamen, høsten 2020](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Flikevekt%2Flikevekt2020eksamen.ipynb).
-  Her bestemmer vi likevektstrykk i en gassblanding.
+  Her bestemmer vi likevektstrykk i en gassblanding, og vi har gitt initielle trykk.
 
 
 ## Syre-baselikevekt (kap. 16):
