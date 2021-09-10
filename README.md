@@ -17,6 +17,10 @@ i nettleseren.
 * [Visualisering av atomorbitaler for hydrogenliknende atomer (bare kode)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler.ipynb).
 * [Visualisering av sp³-atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fhybridorbital.ipynb).
 
+## Kinetikk (kap. 14):
+* [Eksempel 14.8 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fkinetikk%2Faktiveringsenergi148.ipynb).
+  Her bestemmer vi en aktiveringsenergi, gitt målinger av hastighetskonstanten ved forskjellige temperaturer.
+
 ## Likevekt (kap. 15):
 * [Eksempel 15.6 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Flikevekt%2Flikevekt156.ipynb).
   Her bestemmer vi likevektskonsentrasjoner i en likevekt der H<sub>2</sub> og I<sub>2</sub> reagerer til HI. Her har vi
