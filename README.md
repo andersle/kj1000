@@ -17,6 +17,17 @@ i nettleseren.
 * [Visualisering av atomorbitaler for hydrogenliknende atomer (bare kode)](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fatomorbitaler.ipynb).
 * [Visualisering av sp³-atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fatomorbitaler%2Fhybridorbital.ipynb).
 
+## Likevekt (kap. 15):
+* [Eksempel 15.6 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Flikevekt%2Flikevekt156.ipynb).
+  Her bestemmer vi likevektskonsentrasjoner i en likevekt der H<sub>2</sub> og I<sub>2</sub> reagerer til HI. Her har vi
+  gitt startkonsentrasjoner av H<sub>2</sub> og I<sub>2</sub>.
+* [Eksempel 15.7 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Flikevekt%2Flikevekt157.ipynb).
+  Her bestemmer vi likevektskonsentrasjoner i en likevekt der H<sub>2</sub> og I<sub>2</sub> reagerer til HI. Her har vi
+  gitt startkonsentrasjoner av H<sub>2</sub>, I<sub>2</sub> og HI.
+* [Oppgave 33(c) fra eksamen, høsten 2020](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Flikevekt%2Flikevekt2020eksamen.ipynb).
+  Her bestemmer vi likevektstrykk i en gassblanding, og vi har gitt initielle trykk.
+
+
 ## Syre-baselikevekt (kap. 16):
 * [Eksempel 16.8 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?filepath=jupyter%2Fsyrebase%2Fsyrebase.ipynb).
   Her bestemmer vi pH ved dissosiasjon av den svake syren HNO<sub>2</sub> i vann.
