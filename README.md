@@ -18,6 +18,12 @@ i nettleseren.
 * [Visualisering av sp³-atomorbitaler for hydrogenliknende atomer](https://mybinder.org/v2/gh/andersle/kj1000/main?urlpath=/tree/jupyter%2Fatomorbitaler%2Fhybridorbital.ipynb).
 
 ## Kinetikk (kap. 14):
+* [Integrerte hastighetslover](https://mybinder.org/v2/gh/andersle/kj1000/main?urlpath=/tree/jupyter%2Fkinetikk%2Fintegrertehastighetslover.ipynb).
+  Her kombinerer vi definisjonen på reaksjonshastighet med hastighetsloven, for å finne integrerte hastighetslover. Spesielt ser vi på
+  reaksjoner av 0., 1. og 2. orden.
+* [Bruk av integrerte hastighetslover](https://mybinder.org/v2/gh/andersle/kj1000/main?urlpath=/tree/jupyter%2Fkinetikk%2Fbestemmeorden.ipynb).
+  Her bruker vi integrerte hastighetslover for å bestemme reaksjonsorden og hastighetskonstanten for en reaksjon. Denne oppgaven
+  likner på oppgave 2, eksamen vår 2020.
 * [Eksempel 14.8 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?urlpath=/tree/jupyter%2Fkinetikk%2Faktiveringsenergi148.ipynb).
   Her bestemmer vi en aktiveringsenergi, gitt målinger av hastighetskonstanten ved forskjellige temperaturer.
 
