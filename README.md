@@ -44,6 +44,10 @@ i nettleseren.
 * [Eksempel 16.10 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?urlpath=/tree/jupyter%2Fsyrebase%2Fdiprotisk.ipynb).
   Her bestemmer vi konsentrasjoner for alle forbindelser ved dissosiasjon av den diprotiske syren H<sub>2</sub>C<sub>2</sub>O<sub>4</sub>.
 
+## Syre-baselikevekt (kap. 17):
+* [Eksempel 17.4 og figur 17.5 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?urlpath=/tree/jupyter%2Fsyrebase%2Ftitrering.ipynb).
+  Her regner vi på titrering av sterk syre med sterk base og svak syre med sterk base.
+
 
 ## Lenke til nyeste versjon (alle eksempler):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andersle/kj1000/main?urlpath=/tree/jupyter)
