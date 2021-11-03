@@ -30,6 +30,9 @@ grid.color : k
 grid.alpha : 0.5
 grid.linewidth : 1.0
 
+# Accessible Color Cycles for Data Visualization
+# See: https://arxiv.org/abs/2107.02270
+axes.prop_cycle: cycler('color', ['5790fc', 'f89c20', 'e42536', '964a8b', '9c9ca1', '7a21dd'])
 # Remove legend frame
 legend.frameon : False
 
