@@ -24,7 +24,7 @@ i nettleseren.
 * [Bruk av integrerte hastighetslover](https://mybinder.org/v2/gh/andersle/kj1000/main?urlpath=/tree/jupyter%2Fkinetikk%2Fbestemmeorden.ipynb).
   Her bruker vi integrerte hastighetslover for å bestemme reaksjonsorden og hastighetskonstanten for en reaksjon. Denne oppgaven
   likner på oppgave 2, eksamen vår 2020.
-* [Eksempel 14.8 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?urlpath=/tree/jupyter%2Fkinetikk%2Faktiveringsenergi148.ipynb).
+* [Eksempel 14.7 i læreboken](https://mybinder.org/v2/gh/andersle/kj1000/main?urlpath=/tree/jupyter%2Fkinetikk%2Faktiveringsenergi147.ipynb).
   Her bestemmer vi en aktiveringsenergi, gitt målinger av hastighetskonstanten ved forskjellige temperaturer.
 
 ## Likevekt (kap. 15):
