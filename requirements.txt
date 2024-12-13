@@ -6,6 +6,6 @@ scikit-learn
 statsmodels
 matplotlib
 jupyter
-pyvista
-ipygany
+pyvista[all]
 sympy
+seaborn
